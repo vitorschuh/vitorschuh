@@ -1,10 +1,14 @@
 <p align="center"><a href="https://vitorschuh.github.io"></a></p>
 
 **About me**
-- 🎲 Data Engineer at [Melhor Envio](https://melhorenvio.com.br/)
-- ⌨️ Excited about coding and elegant data techs
-- ☁️ Currently studying cloud services and databricks
-- 💬 Ask me about anything [here](https://github.com/vitorschuh/vitorschuh/issues)
+
+🎲 Data Engineer at [Melhor Envio](https://melhorenvio.com.br/)
+
+⌨️ Excited about coding and elegant data techs
+
+☁️ Currently studying cloud services and databricks
+
+💬 Ask me about anything [here](https://github.com/vitorschuh/vitorschuh/issues)
 
 ##
 <div align="center">
@@ -15,7 +19,7 @@
 
 ##
 <div align="center"><br>
-  Skilled with:
+  Skilled with
 </div>    
 <div style="display: inline_block"><br>
   <div align="center">
@@ -28,10 +32,22 @@
 </div>
 
 <div align="center"><br>
-  Interested in:
+  Interested in
 </div>    
 <div style="display: inline_block"><br>
   <div align="center">
-  <img align="center" alt="airflow" src="https://img.shields.io/badge/Spark-ffffff?style=for-the-badge&logo=apachespark&logoColor=E35A16">
-  <img align="center" alt="pandas" src="https://img.shields.io/badge/Databricks-ffffff?style=for-the-badge&logo=Databricks&logoColor=dc143d">
+  <img alt="spark" src="https://img.shields.io/badge/Spark-ffffff?style=for-the-badge&logo=apachespark&logoColor=E35A16">
+  <img alt="databricks" src="https://img.shields.io/badge/Databricks-ffffff?style=for-the-badge&logo=Databricks&logoColor=dc143d">
 </div>
+
+<!--
+<div align="center"><br>
+  Formerly high-skilled with
+</div>    
+<div style="display: inline_block"><br>
+  <div align="center">
+  <img align="center" alt="node" src="https://img.shields.io/badge/node.js-ffffff?style=for-the-badge&logo=node.js&logoColor=43853D">
+  <img align="center" alt="insomnia" src="https://img.shields.io/badge/Insomnia-ffffff?style=for-the-badge&logo=Insomnia&logoColor=5849be">
+  <img align="center" alt="mongo" src="	https://img.shields.io/badge/mongodb-ffffff?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
+</div>
+-->
