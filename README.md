@@ -28,15 +28,15 @@
 </div>
 
 ###
-<div style="text-align: center;">
-  <img src="assets/python.png" alt="python" style="width: 50px; height: 50px;" margin-right: 30px;">
-  <img src="assets/pandas.png" alt="pandas" style="width: 50px; height: 50px;" margin-right: 30px;">
-  <img src="assets/airflow.png" alt="airflow" style="width: 50px; height: 50px;" margin-right: 30px;">
-  <img src="assets/actions.png" alt="actions" style="width: 50px; height: 50px;" margin-right: 30px;">
+<div align="center">
+  <img src="assets/python.png" alt="python" style="width: 50px; height: 50px; margin-right: 20px;">
+  <img src="assets/pandas.png" alt="pandas" style="width: 50px; height: 50px; margin-right: 20px;">
+  <img src="assets/airflow.png" alt="airflow" style="width: 50px; height: 50px; margin-right: 20px;">
+  <img src="assets/actions.png" alt="actions" style="width: 50px; height: 50px; margin-right: 20px;">
 </div>
 
-<div style="text-align: center; margin-top: 20px;">
-  <img src="assets/docker.png" alt="docker" style="width: 50px; height: 50px;" margin-right: 30px;">
-  <img src="assets/postgres.png" alt="postgres" style="width: 50px; height: 50px;" margin-right: 30px;">
-  <img src="assets/aws.png" alt="aws" style="width: 50px; height: 50px;" margin-right: 30px;">
+<div align="center" style="margin-top: 20px;">
+  <img src="assets/docker.png" alt="docker" style="width: 50px; height: 50px; margin-right: 20px;">
+  <img src="assets/postgres.png" alt="postgres" style="width: 50px; height: 50px; margin-right: 20px;">
+  <img src="assets/aws.png" alt="aws" style="width: 50px; height: 50px; margin-right: 20px;">
 </div>
