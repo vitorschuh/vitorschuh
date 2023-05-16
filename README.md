@@ -15,13 +15,6 @@
 💬 ask me about anything [here](https://github.com/vitorschuh/vitorschuh/issues)
 
 ##
-<div align="center">
-  <a href="https://github.com/vitorschuh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorschuh&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
-
-##
 <div align="center" style="text-align: center; margin-top: 40px; margin-bottom: 40px">
   <strong>skilled with</strong>
 </div>
