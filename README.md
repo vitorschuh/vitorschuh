@@ -1,6 +1,6 @@
 <p align="center"><a href="https://vitorschuh.github.io"></a></p>
 
-<div align="center" style="text-align: center; margin-bottom: 40px">
+<div align="center" style="margin-bottom: 40px">
   <strong>about me</strong>
 </div>
 
