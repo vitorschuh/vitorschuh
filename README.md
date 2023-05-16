@@ -10,7 +10,7 @@
 
 ⌨️ excited about coding and elegant ways to solve data dares
 
-☁️ currently studying dataops (data infras as code), data streaming tools and cloud/serverless data services
+☁️ currently studying dataops (data infra as code), data streaming tools and cloud/serverless data services
 
 💬 ask me about anything [here](https://github.com/vitorschuh/vitorschuh/issues)
 
