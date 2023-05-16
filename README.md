@@ -31,15 +31,6 @@
   <img align="center" alt="github actions" src="https://img.shields.io/badge/github_actions-ffffff?style=for-the-badge&logo=github-actions&logoColor=230db7ed">
 </div>
 
-<div align="center"><br>
-  Interested in
-</div>    
-<div style="display: inline_block"><br>
-  <div align="center">
-  <img alt="spark" src="https://img.shields.io/badge/Spark-ffffff?style=for-the-badge&logo=apachespark&logoColor=E35A16">
-  <img alt="databricks" src="https://img.shields.io/badge/Databricks-ffffff?style=for-the-badge&logo=Databricks&logoColor=dc143d">
-</div>
-
 <!--
 <div align="center"><br>
   Formerly high-skilled with
