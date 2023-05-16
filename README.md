@@ -32,3 +32,15 @@
   <img src="assets/postgres.png" alt="postgres" style="width: 50px; height: 50px; margin-right: 20px;">
   <img src="assets/aws.png" alt="aws" style="width: 50px; height: 50px; margin-right: 20px;">
 </div>
+
+##
+<div align="center" style="text-align: center; margin-top: 40px; margin-bottom: 40px">
+  <strong>interested in</strong>
+</div>
+
+###
+<div align="center">
+  <img src="assets/spark.png" alt="spark" style="width: 50px; height: 50px; margin-right: 20px;">
+  <img src="assets/terraform.png" alt="terraform" style="width: 50px; height: 50px; margin-right: 20px;">
+  <img src="assets/kafka.png" alt="kafka" style="width: 50px; height: 50px; margin-right: 20px;">
+</div>
