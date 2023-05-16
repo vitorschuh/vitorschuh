@@ -1,13 +1,12 @@
 <p align="center"><a href="https://vitorschuh.github.io"></a></p>
 
-##
-<div align="center" style="text-align: center; margin-bottom: 20px">
+<div align="center" style="text-align: center; margin-bottom: 40px">
   <strong>about me</strong>
 </div>
 
 🎲 data engineer at [mobi7](https://www.mobi7.com.br/)/[localiza](https://www.localiza.com/)
 
-✈️ former data/mlops engineer at [melhor envio](https://melhorenvio.com.br/)
+✈️ former data/mlops engineer for [melhor envio](https://melhorenvio.com.br/)
 
 ⌨️ excited about coding and elegant ways to solve data dares
 
@@ -23,7 +22,7 @@
 </div>
 
 ##
-<div align="center" style="text-align: center; margin-top: 40px; margin-bottom: 20px">
+<div align="center" style="text-align: center; margin-top: 40px; margin-bottom: 40px">
   <strong>skilled with</strong>
 </div>
 
