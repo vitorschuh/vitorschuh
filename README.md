@@ -1,7 +1,7 @@
 <p align="center"><a href="https://vitorschuh.github.io"></a></p>
 
 ##
-<div style="text-align: center; margin-bottom: 20px">
+<div align="center" style="text-align: center; margin-bottom: 20px">
   <strong>about me</strong>
 </div>
 
@@ -23,7 +23,7 @@
 </div>
 
 ##
-<div style="text-align: center; margin-top: 40px; margin-bottom: 20px">
+<div align="center" style="text-align: center; margin-top: 40px; margin-bottom: 20px">
   <strong>skilled with</strong>
 </div>
 
