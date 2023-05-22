@@ -1,44 +1,46 @@
 <p align="center"><a href="https://vitorschuh.github.io"></a></p>
 
-**About me**
+<div align="center" style="margin-bottom: 40px">
+  <strong>about me</strong>
+</div>
 
-🎲 Data Engineer at [Melhor Envio](https://melhorenvio.com.br/)
+🎲 data engineer at [mobi7](https://www.mobi7.com.br/)/[localiza](https://www.localiza.com/)
 
-⌨️ Excited about coding and elegant data techs
+✈️ former data engineer for [melhor envio](https://melhorenvio.com.br/)
 
-☁️ Currently studying cloud services and databricks
+⌨️ excited about coding and elegant ways to solve data dares
 
-💬 Ask me about anything [here](https://github.com/vitorschuh/vitorschuh/issues)
+☁️ currently studying dataops, data infra as code and cloud/serverless data services
+
+💬 ask me about anything [here](https://github.com/vitorschuh/vitorschuh/issues)
 
 ##
+<div align="center" style="text-align: center; margin-top: 40px; margin-bottom: 40px">
+  <strong>skilled with</strong>
+</div>
+
+###
 <div align="center">
-  <a href="https://github.com/vitorschuh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorschuh&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  </a>
+  <img src="assets/python.png" alt="python" style="width: 50px; height: 50px; margin-right: 20px;">
+  <img src="assets/pandas.png" alt="pandas" style="width: 50px; height: 50px; margin-right: 20px;">
+  <img src="assets/airflow.png" alt="airflow" style="width: 50px; height: 50px; margin-right: 20px;">
+  <img src="assets/actions.png" alt="actions" style="width: 50px; height: 50px; margin-right: 20px;">
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="assets/docker.png" alt="docker" style="width: 50px; height: 50px; margin-right: 20px;">
+  <img src="assets/postgres.png" alt="postgres" style="width: 50px; height: 50px; margin-right: 20px;">
+  <img src="assets/aws.png" alt="aws" style="width: 50px; height: 50px; margin-right: 20px;">
 </div>
 
 ##
-<div align="center"><br>
-  Skilled with
-</div>    
-<div style="display: inline_block"><br>
-  <div align="center">
-  <img alt="python" src="https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python&logoColor=0b5394">
-  <img alt="airflow" src="https://img.shields.io/badge/airflow-ffffff?style=for-the-badge&logo=Apache%20Airflow&logoColor=grey">
-  <img alt="pandas" src="https://img.shields.io/badge/pandas-ffffff?style=for-the-badge&logo=pandas&logoColor=351c75">
-  <div style="white-space: pre-wrap;">
-  <img align="center" alt="docker" src="https://img.shields.io/badge/docker-ffffff?style=for-the-badge&logo=docker&logoColor=230db7ed">
-  <img align="center" alt="github actions" src="https://img.shields.io/badge/github_actions-ffffff?style=for-the-badge&logo=github-actions&logoColor=230db7ed">
+<div align="center" style="text-align: center; margin-top: 40px; margin-bottom: 40px">
+  <strong>interested in</strong>
 </div>
 
-<!--
-<div align="center"><br>
-  Formerly high-skilled with
-</div>    
-<div style="display: inline_block"><br>
-  <div align="center">
-  <img align="center" alt="node" src="https://img.shields.io/badge/node.js-ffffff?style=for-the-badge&logo=node.js&logoColor=43853D">
-  <img align="center" alt="insomnia" src="https://img.shields.io/badge/Insomnia-ffffff?style=for-the-badge&logo=Insomnia&logoColor=5849be">
-  <img align="center" alt="mongo" src="	https://img.shields.io/badge/mongodb-ffffff?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
+###
+<div align="center">
+  <img src="assets/spark.png" alt="spark" style="width: 50px; height: 50px; margin-right: 20px;">
+  <img src="assets/terraform.png" alt="terraform" style="width: 50px; height: 50px; margin-right: 20px;">
+  <img src="assets/kafka.png" alt="kafka" style="width: 50px; height: 50px; margin-right: 20px;">
 </div>
--->
