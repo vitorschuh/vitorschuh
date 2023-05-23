@@ -8,7 +8,7 @@
 
 ✈️ former data engineer for [melhor envio](https://melhorenvio.com.br/)
 
-⌨️ excited about coding and elegant ways to solve data dares
+⌨️ excited about coding and efficient ways to solve data dares
 
 ☁️ currently studying dataops, data infra as code and cloud/serverless data services
 
